@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_GetHashCode_Conjuntos", "Exercicio_GetHashCode_Conjuntos\Exercicio_GetHashCode_Conjuntos.csproj", "{6027A797-CED0-47DA-83EB-CE38C14C3423}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6027A797-CED0-47DA-83EB-CE38C14C3423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6027A797-CED0-47DA-83EB-CE38C14C3423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6027A797-CED0-47DA-83EB-CE38C14C3423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6027A797-CED0-47DA-83EB-CE38C14C3423}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEF4A215-276F-44BB-BBE7-2B11D512140E}
+	EndGlobalSection
+EndGlobal
